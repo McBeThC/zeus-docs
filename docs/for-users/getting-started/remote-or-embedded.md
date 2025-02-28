@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 # Choose your path
 
-ZEUS is a mobile Bitcoin wallet that can both run a node and wallet locally on your phone, but it can also manage multiple remote nodes. You can connect various nodes not just one, and even use the embedded node in parralel, depending on your needs and usage.
+ZEUS is a mobile Bitcoin wallet that can both run a node and wallet locally on your phone, but it can also manage multiple remote nodes. You can connect various nodes not just one, and even use the embedded node in parallel, depending on your needs and usage.
 
 # Embedded node
 
